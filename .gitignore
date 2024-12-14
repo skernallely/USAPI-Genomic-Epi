@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.R_outbreak-info-token
+/GISAID datasets
+/metadata_adjusted.tsv
+*.docx
+*.Rproj
